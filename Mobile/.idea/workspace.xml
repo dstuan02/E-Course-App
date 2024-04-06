@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31fc828a-2c53-4934-8aa9-3d76cdde27f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Home/Style.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Home/Style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Lesson/Lesson.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Lesson/Lesson.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Lesson/LessonDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Lesson/LessonDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/User/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/User/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/User/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/User/Register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/User/Style.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/User/Style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/API.js" beforeDir="false" afterPath="$PROJECT_DIR$/configs/API.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reducers/MyUserReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/reducers/MyUserReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/MyStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/styles/MyStyles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2diMpj3JHev4ZS7xg5sLmzNNQNt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/dulieuoD/STUDY/NAM 4/HK2/MaNguonMo/CourseApp/ManagementCourse"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31fc828a-2c53-4934-8aa9-3d76cdde27f4" name="Changes" comment="" />
+      <created>1710486631018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710486631018</updated>
+    </task>
+    <servers />
+  </component>
+</project>
