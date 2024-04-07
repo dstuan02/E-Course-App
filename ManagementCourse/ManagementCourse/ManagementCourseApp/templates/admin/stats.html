@@ -1,0 +1,51 @@
+{% extends 'admin/base_site.html' %}
+
+{% block content %}
+<h1>Thống kê</h1>
+<h2>Thông tin thống kê</h2>
+<!--{{stats}} => tử trang admin-->
+<ul>
+    {% for c in stats %}
+    <li>{{c.name}}</li>
+    {% endfor %}
+</ul>
+<div>
+    <canvas id="myChart"></canvas>
+</div>
+<!--0906941939-->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    let values =[]
+    let labels = []
+
+    {% for c in stats %}
+        values.push({{c.count}})
+        labels.push('{{ c.name }}')
+    {% endfor %}
+
+    window.onload =()=>{
+      const ctx = document.getElementById('myChart');
+
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+          labels: labels,
+          datasets: [{
+            label: '# of Votes',
+            data: values,
+            borderWidth: 1
+          }]
+        },
+        options: {
+          scales: {
+            y: {
+              beginAtZero: true
+            }
+          }
+        }
+      });
+    }
+
+</script>
+{% endblock %}
